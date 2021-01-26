@@ -1,5 +1,5 @@
 # Maze Generators
-Maze Generators is a fun project I worked on that uses some popular maze generator algotithims to generates mazes. I made this project using python and python's graphics library called pygame
+Maze Generators is a fun project I worked on that uses some popular maze generator algorithims to generate mazes. I made this project using python and python's graphics library named pygame
 
 ## Note
 
